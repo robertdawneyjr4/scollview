@@ -58,6 +58,12 @@
         android:layout_height="wrap_content"
         android:text="Telefono" />
 
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Telefono" />
+
     <EditText
         android:id="@+id/editelefono"
         android:layout_width="match_parent"
